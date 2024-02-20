@@ -1,0 +1,5 @@
+name: "Update EAS Build Number"
+description: "Increments the build number for EAS build"
+runs:
+  using: "node20"
+  main: "index.js"
